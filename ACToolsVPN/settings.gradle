@@ -1,0 +1,2 @@
+rootProject.name = "ACToolsVPN"
+include ':app'
